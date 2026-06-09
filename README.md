@@ -2,7 +2,7 @@
 
 An end-to-end machine learning pipeline in R for predicting customer churn. Covers data cleaning, missing value imputation, logistic regression with cross-validation, and model evaluation using ROC and Precision-Recall curves.
 
-![Pipeline Overview](pipeline_overview.png)
+![Pipeline Overview](churn_pipeline.png)
 
 ---
 
